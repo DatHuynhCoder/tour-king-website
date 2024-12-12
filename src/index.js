@@ -88,7 +88,7 @@ const router = createBrowserRouter([
         element: <DoiGioBay/>
       }
     ]
-  }
+  },
       { path: 'User', element: <User /> }, 
       { path: 'BookingHistory', element: <BookingHistory /> },
       { path: 'TransactionHistory', element: <TransactionHistory /> },
